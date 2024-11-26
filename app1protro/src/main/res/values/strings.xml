@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app1protro</string>
+    <string-array name="options">
+        <item>팀플</item>
+        <item>공모전</item>
+        <item>기타</item>
+    </string-array>
+</resources>
